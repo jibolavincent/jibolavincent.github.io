@@ -11,5 +11,5 @@ When I'm not buried in a dataset, I'm usually reading about new tools in the
 data science space, tinkering with side projects, or trying to explain what
 I've learned to anyone who'll listen.
 
-[Download my resume (PDF)](/assets/pdf/AjibolaVincentResume.pdf)
+[Download my resume (PDF)]('/assets/pdf/AjibolaVincentResume.pdf')
 
